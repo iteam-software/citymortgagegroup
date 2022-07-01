@@ -1,0 +1,26 @@
+@tailwind base;
+
+/* Your own custom base styles */
+
+@tailwind components;
+
+/* Your own custom component styles */
+
+
+/* Start purging... */
+@tailwind utilities;
+/* Stop purging. */
+
+/* Your own custom utilities */
+
+.bannerIsOpen {
+    transition-duration: 0.5s;
+    transition-delay: 0s;
+    transform: translateY(0%);
+  }
+
+  .bannerIsClosed {
+    transform: translateY(100%);
+    transition-duration: 0.5s;
+    transition-delay: 0s;
+  }

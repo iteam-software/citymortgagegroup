@@ -1,0 +1,36 @@
+module.exports = {
+  purge: {
+    enabled: true,
+    content: ['./src/**/*.js'],
+  },
+  theme: {
+    fontFamily: {
+      content: ["Source Sans Pro", "sans-serif"],
+      header: ["Montserrat", "sans-serif"],
+    },
+    colors: {
+      primary: "#4DCCBD",
+      primaryDark: "#009A8D",
+      primaryLight: "#85FFEF",
+      secondary: "#D8F793",
+      secondaryDark: "#D8F793",
+      secondaryLight: "#FFFFC5",
+      accent: "#FFAC81",
+      accentDark: "#C97C54",
+      accentLight: "#FFDEB1",
+      textTitle: "rgba(0, 0, 0, 0.5)",
+      textTitleDark: "rgba(0, 0, 0, 0.54)",
+      textTitleDarkLight: "rgba(255, 255, 255, 0.94)",
+      textTitleLight: "rgba(0, 0, 0, 0.43)",
+      textBody: "rgba(0, 0, 0, 0.87)",
+      textBodyDark: "rgba(0, 0, 0, 0.94)",
+      textBodyLight: "rgba(0, 0, 0, 0.75)",
+      white: "#fff",
+      footer: "#423833",
+      background: "#FCF8F2",
+    },
+    extend: {},
+  },
+  variants: {},
+  plugins: [],
+};

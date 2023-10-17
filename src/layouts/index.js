@@ -3,7 +3,6 @@ import { Global, css } from "@emotion/core";
 import SEO from "../components/SEO";
 import Nav from "../components/Nav";
 import Footer from "../components/Footer";
-import CovidBanner from "../components/CovidBanner";
 import { useWindowSize } from "../hooks/useWindowSize";
 export const WindowSizeContext = React.createContext();
 
@@ -15,7 +14,6 @@ export default ({ children }) => {
         <Nav />
         <SEO />
         <div className="bg-background">{children}</div>
-        <CovidBanner/>
         <Footer />
         <Global
           styles={css`

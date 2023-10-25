@@ -54,15 +54,7 @@ const jumbo = ({ data }) => {
             <SubTitle>What is a Jumbo Loan?</SubTitle>
             <br />
             <br />
-            A jumbo loan, also known as a jumbo mortgage, is a type of financing
-            that exceeds the limits set by the Federal Housing Finance Agency
-            (FHFA). Unlike conventional mortgages, a jumbo loan is not eligible
-            to be purchased, guaranteed, or securitized by Fannie Mae or Freddie
-            Mac. Designed to finance luxury properties and homes in highly
-            competitive local real estate markets, jumbo mortgages come with
-            unique underwriting requirements and tax implications. These kinds
-            of mortgages have gained traction as the housing market continues to
-            recover following the Great Recession.
+            A jumbo loan, also known as a jumbo mortgage, is a type of financing that exceeds the limits set by the Federal Housing Finance Agency (FHFA). Unlike conventional mortgages, a jumbo loan is not eligible to be purchased, guaranteed, or securitized by Fannie Mae or Freddie Mac. Designed to finance luxury properties and homes in highly competitive local real estate markets, jumbo mortgages come with unique underwriting requirements and tax implications. These kinds of mortgages have gained traction as the housing market continues to recover following the Great Recession.
             <br />
             <br />
             The value of a jumbo mortgage varies by state—and even county. The

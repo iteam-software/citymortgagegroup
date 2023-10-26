@@ -86,8 +86,7 @@ const loans = ({ data }) => {
         ctaImage
         to="/loans/va"
         subtitle="Serving those who protect us."
-        content="A VA loan is a mortgage loan that’s issued by private lenders and backed by the U.S. Department of Veterans Affairs. It helps U.S. veterans, active duty service members, and widowed military spouses buy a home.
-        VA loans were introduced as part of the GI Bill in 1944, but they’ve become increasingly popular in recent years. In the first quarter of 2019, 8% of home purchases were made with a VA loan.1 This type of loan is an attractive option because it’s pretty easy to qualify for and doesn’t require a down payment."
+        content="A VA loan is a mortgage loan that is issued by private lenders and backed by the U.S. Department of Veterans Affairs. It helps U.S. veterans, active-duty service members, and widowed military spouses buy a home. VA loans were introduced as part of the GI Bill in 1944, but they have become increasingly popular in recent years. In the first quarter of 2019, 8% of home purchases were made with a VA loan.1 This type of loan is an attractive option because it is easy to qualify for and does not require a down payment."
         alignItems="center"
       />
       <div className="mx-8 lg:mx-40">
@@ -113,7 +112,7 @@ const loans = ({ data }) => {
           </li>
           <li className="ml-5">
             <strong>Must</strong> be a <strong>veteran</strong> or{" "}
-            <strong>active service member</strong>&nbsp; of the U.S Military.
+            <strong>active service member</strong>&nbsp;of the U.S Military.
           </li>
         </ul>
       </div>
@@ -157,7 +156,7 @@ const loans = ({ data }) => {
         ctaImage
         to="/loans/conventional"
         subtitle=""
-        content="A conventional mortgage or conventional loan is any type of home buyer’s loan that is not offered or secured by a government entity. Instead, conventional mortgages are available through private lenders, such as banks, credit unions, and mortgage companies. However, some conventional mortgages can be guaranteed by two government-sponsored enterprises; the Federal National Mortgage Association (Fannie Mae) and the Federal Home Loan Mortgage Corporation (Freddie Mac)."
+        content="A conventional mortgage or conventional loan is any type of home buyer’s loan that is not offered or secured by a government entity. Instead, conventional mortgages are available through private lenders, such as banks, credit unions, and mortgage companies. However, some conventional mortgages can be guaranteed by two government-sponsored enterprises: the Federal National Mortgage Association (Fannie Mae) and the Federal Home Loan Mortgage Corporation (Freddie Mac)."
         alignItems="center"
       />
       <div className="mx-8 lg:mx-40">

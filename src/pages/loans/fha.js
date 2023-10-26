@@ -62,23 +62,7 @@ const fha = ({ data }) => {
             <SubTitle>What is an FHA loan?</SubTitle>
             <br />
             <br />
-            An FHA loan is a specific kind of mortgage you can use to purchase a
-            home, refinance an existing home loan or rehabilitate a home in need
-            of repairs. FHA loans get their name because the Federal Housing
-            Administration provides insurance for lenders that issue these
-            loans. These loans are the U.S. government’s “flagship initiative”
-            intended to make low-cost home financing available to borrowers.
-            With an FHA loan, if you don’t pay your mortgage, the lender can
-            file a claim with the FHA for payment of the remaining balance once
-            foreclosure is complete. Since lenders have this backup option,
-            they’re more willing to lend to you even if you don’t have perfect
-            qualifications as a borrower. The criteria to be approved isn’t as
-            stringent as it would be if you got a loan without government
-            backing, which is known in the industry as a conventional mortgage
-            or conventional loan. It’s important to understand that borrowers
-            aren’t protected by the FHA guarantee, though. If you don’t pay your
-            mortgage, you still get foreclosed on — and the insurance doesn’t
-            pay you anything for your losses.
+            An FHA loan is a specific kind of mortgage you can use to purchase a home, refinance an existing home loan, or rehabilitate a home in need of repairs. FHA loans get their name because the Federal Housing Administration provides insurance for lenders that issue these loans. These loans are the U.S. government’s “flagship initiative” intended to make low-cost home financing available to borrowers. With an FHA loan, if you do not pay your mortgage, the lender can file a claim with the FHA for payment of the remaining balance once foreclosure is complete. Since lenders have this backup option, they are more willing to lend to you even if you do not have perfect qualifications as a borrower. The criteria to be approved is not as stringent as it would be if you got a loan without government backing, which is known in the industry as a conventional mortgage or conventional loan. It is important to understand that borrowers are not protected by the FHA guarantee, though. If you do not pay your mortgage, you still get foreclosed on — and the insurance does not pay you anything for your losses.
             <br />
             <br />
             <SubTitle>How do I apply for an FHA loan?</SubTitle>
@@ -106,10 +90,7 @@ const fha = ({ data }) => {
               </li>
             </ul>
             <br />
-            Your lender may be able to automatically retrieve some required
-            documentation, like credit reports, tax returns and employment
-            records. Special circumstances — like if you're a student, or you
-            don't have a credit score — may require additional paperwork.
+            Your lender may be able to automatically retrieve some required documentation, like credit reports, tax returns and employment records. Special circumstances — like if you are a student, or you do not have a credit score — may require additional paperwork.
             <br />
             <br />
             <SubTitle>
@@ -117,32 +98,13 @@ const fha = ({ data }) => {
             </SubTitle>
             <br />
             <br />
-            It's easier to qualify for an FHA loan than for a conventional loan,
-            which is a mortgage that isn't insured or guaranteed by the federal
-            government. FHA loans allow for lower credit scores than
-            conventional loans and, in some cases, lower monthly mortgage
-            insurance payments. FHA rules are more liberal regarding gifts of
-            down payment money from family, employers or charitable
-            organizations. FHA loans may involve closing costs that aren't
-            required by conventional loans.
+            It is easier to qualify for an FHA loan than for a conventional loan, which is a mortgage that is not insured or guaranteed by the federal government. FHA loans allow for lower credit scores than conventional loans and, in some cases, lower monthly mortgage insurance payments. FHA rules are more liberal regarding gifts of down payment money from family, employers, or charitable organizations. FHA loans may involve closing costs that are not required by conventional loans.
             <br />
             <br />
             <SubTitle>What is the FHA?</SubTitle>
             <br />
             <br />
-            The Federal Housing Administration — better known as the FHA — has
-            been part of the U.S. Department of Housing and Urban Development
-            since 1965. But the FHA actually began more than 30 years before
-            that, as a component of the New Deal. In addition to a stock market
-            crash and the Dust Bowl drought, the Great Depression saw a housing
-            market bubble burst. By early 1933, roughly half of American
-            homeowners had defaulted on their mortgages. The FHA was created as
-            part of the National Housing Act of 1934 to stem the tide of
-            foreclosures and help make homeownership more affordable. It
-            established the 20% down payment as a new norm by insuring mortgages
-            for up to 80% of a home's value — previously, homeowners had been
-            limited to borrowing 50%-60%. Today, the FHA insures loans for about
-            8 million single-family homes.
+            The Federal Housing Administration — better known as the FHA — has been part of the U.S. Department of Housing and Urban Development since 1965. But the FHA began more than 30 years before that, as a component of the New Deal. In addition to a stock market crash and the Dust Bowl drought, the Great Depression saw a housing market bubble burst. By early 1933, roughly half of American homeowners had defaulted on their mortgages. The FHA was created as part of the National Housing Act of 1934 to stem the tide of foreclosures and help make homeownership more affordable. It established the 20% down payment as a new norm by insuring mortgages for up to 80% of a home's value — previously, homeowners had been limited to borrowing 50%-60%. Today, the FHA insures loans for about 8 million single-family homes.
             <br />
             <br />
           </p>

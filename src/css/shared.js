@@ -5,9 +5,11 @@ export const activeLinkStyle = {
   fontWeight: "700",
 };
 export const Title = styled.h1`
-  font-size: 64px;
+  font-size: 60px;
   line-height: 78px;
   font-weight: 700;
+  text-transform: capitalize;
+  line-break: loose;
   white-space: ${(props) => (props.nowrap ? "nowrap" : "")};
   @media (max-width: 768px) {
     font-size: 40px;

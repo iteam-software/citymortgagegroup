@@ -29,7 +29,7 @@ export default ({ data }) => {
   return (
     <>
       <Splash
-        title="Whatever Your Mortgage Needs, We Can Help."
+        title="Whatever your mortgage needs, we can help."
         mobileTitle="Use Our Website To Apply For A Home Loan!"
         cta="Apply Online"
         fluid={data.allFile.nodes[0].childImageSharp.fluid}

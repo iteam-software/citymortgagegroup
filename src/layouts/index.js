@@ -1,6 +1,5 @@
 import React from "react";
 import { Global, css } from "@emotion/core";
-import TagManager from "react-gtm-module";
 import SEO from "../components/SEO";
 import Nav from "../components/Nav";
 import Footer from "../components/Footer";
@@ -9,10 +8,6 @@ export const WindowSizeContext = React.createContext();
 
 export default ({ children }) => {
   const windowSize = useWindowSize();
-  const tagManagerArgs = {
-    gtmId: `<GTM-MH2PTGV>`
-  }
-  TagManager.initialize(tagManagerArgs)
   return (
     <>
       <WindowSizeContext.Provider value={windowSize}>

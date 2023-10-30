@@ -65,7 +65,6 @@ module.exports = {
         postCssPlugins: [require(`tailwindcss`)(tailwindConfig)],
       },
     },
-    `gatsby-plugin-google-gtag`,
     {
       resolve: `gatsby-plugin-google-gtag`,
       options: {

@@ -4,7 +4,6 @@ import SEO from "../components/SEO";
 import Nav from "../components/Nav";
 import Footer from "../components/Footer";
 import { useWindowSize } from "../hooks/useWindowSize";
-import {GatsbyGoogleAnalytics} from "gatsby-plugin-google-analytics";
 export const WindowSizeContext = React.createContext();
 
 export default ({ children }) => {
@@ -14,7 +13,6 @@ export default ({ children }) => {
       <WindowSizeContext.Provider value={windowSize}>
         <Nav />
         <SEO />
-        <GatsbyGoogleAnalytics />
 
         <div className="bg-background">{children}</div>
         <Footer />

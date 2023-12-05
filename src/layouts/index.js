@@ -13,6 +13,7 @@ export default ({ children }) => {
       <WindowSizeContext.Provider value={windowSize}>
         <Nav />
         <SEO />
+
         <div className="bg-background">{children}</div>
         <Footer />
         <Global

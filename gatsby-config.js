@@ -14,6 +14,7 @@ module.exports = {
   /* Your site config here */
   plugins: [
     `gatsby-plugin-layout`,
+    `gatsby-plugin-sitemap`,
     `gatsby-plugin-emotion`,
     {
       resolve: `gatsby-source-filesystem`,

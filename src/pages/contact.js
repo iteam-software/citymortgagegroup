@@ -84,7 +84,7 @@ const contact = ({ data }) => {
                 (361) 576-9890
               </Lead>
             </a>
-            <a href="mailto:contact@citymortgage.net" className="my-5">
+            <a href="mailto:info@citymortgagegroup.net" className="my-5">
               <Lead>
                 <FontAwesomeIcon
                   icon="envelope"

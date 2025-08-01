@@ -94,16 +94,6 @@ const contact = ({ data }) => {
                 info@citymortgagegroup.net
               </Lead>
             </a>
-            <a href="tel:1-361-576-9894" className="my-5">
-              <Lead>
-                <FontAwesomeIcon
-                  icon="fax"
-                  className="mx-auto block md:inline-block my-3 md:my-0"
-                />
-                &nbsp;&nbsp;<span className="hidden md:inline">Fax:</span> (361)
-                576-9894
-              </Lead>
-            </a>
           </div>
         </div>
       </div>

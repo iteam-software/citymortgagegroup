@@ -69,8 +69,8 @@ const contact = ({ data }) => {
             >
               Albuquerque, NM
             </Body>
-            <Body className="my-2">Lousiana Blvd. NE #8000</Body>
-            <Body className="mt-2">Albuquerque, NM 87109</Body>
+            <Body className="my-2">8814 Horizon Blvd. NE #100</Body>
+            <Body className="mt-2">Albuquerque, NM 87113</Body>
           </div>
           <div className="flex flex-col mb-10 items-center lg:items-start">
             <a href="tel:1-361-576-9890" className="my-5">

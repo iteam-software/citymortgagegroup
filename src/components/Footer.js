@@ -57,8 +57,15 @@ const Footer = () => {
         <section className="flex items-end">
           <EqualHousingLogo />
           <div className="mx-4">
-            <div>WMC-NMLS# 149648</div>
-            <div>Branch-NMLS# 8468685</div>
+            <div>WMC NMLS #149648</div>
+            <div>
+              Zach Smith NMLS #149648 <a href="mailto:zach@citymortgagegroup.net">zach@citymortgagegroup.net</a>
+            </div>
+            <div>
+              Randy Smith NMLS #205161 <a href="mailto:randy@citymortgagegroup.net">randy@citymortgagegroup.net</a>
+            </div>
+            <div>Jeff Smith NMLS #211517</div>
+            <div>Branch NMLS #868665</div>
             <div>
               © 2020 WestStar Mortgage Corporation DBA City Mortgage Group{" "}
             </div>

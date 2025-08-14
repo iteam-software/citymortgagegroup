@@ -57,7 +57,7 @@ const Footer = () => {
         <section className="flex items-end">
           <EqualHousingLogo />
           <div className="mx-4">
-            <div>WMC NMLS #149648</div>
+            <div>WMC NMLS #93243</div>
             <div>
               Zach Smith NMLS #149648 <a href="mailto:zach@citymortgagegroup.net">zach@citymortgagegroup.net</a>
             </div>
